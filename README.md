@@ -1,4 +1,4 @@
-# Rapolu--Mahanthi# 👋 Hey there! I'm Mahanthi
+# Rapolu-Mahanthi# 👋 Hey there! I'm Mahanthi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+Smart+Digital+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
